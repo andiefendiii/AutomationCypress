@@ -1,0 +1,13 @@
+{
+    "name": "Andi Efendi",
+    "company": "PT. Angin Ribut",
+    "address": "Jl. Margonda",
+    "city": "Depok",
+    "phone": "08127777777",
+    "email": "andi@anginribut.com",
+    "validateTableName": "Name",
+    "validateDetailText": "Details",
+    "addressEdit": "Jl. Kelapa Dua",
+    "validateDelete": "No Match"
+ 
+}

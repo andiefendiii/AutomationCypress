@@ -1,0 +1,16 @@
+{
+    "firstName": "Andi",
+    "surName": "Efendi",
+    "epost": "16455",
+    "mobile": "081283381000",
+    "confPassword": "itera123",
+    "validateRegisterSuccess": "Registration Successful",
+    "validateRegisterExisting": "Username already exist",
+    "validateRegisterEmptyFirstname": "Please enter first name",
+    "validateRegisterEmptySurname": "Please enter surname",
+    "validateRegisterEmptyUsername": "Please enter username",
+    "validateRegisterUrl": "/UserRegister/NewUser",
+    "validateLoginUrl": "/Login"
+
+    
+}

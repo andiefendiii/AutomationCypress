@@ -1,0 +1,14 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andi efendi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}

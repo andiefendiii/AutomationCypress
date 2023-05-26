@@ -1,0 +1,6 @@
+{
+    "validateUrlLoginSuccess": "/Dashboard",
+    "validateUrlLogoutSuccess": "/Login",
+    "validateLogoutSuccess": "LOGIN",
+    "validateLoginErrorMessage": "Wrong username or password"
+}
